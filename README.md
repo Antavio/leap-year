@@ -12,6 +12,12 @@
   - cd leap-year
   - atom .
 
+## Leap year specs sheet
+    -The program should return when a year is not a year.
+    -The program should return 'true' for years divisible by 4, since those are leap years.
+    -The program should return 'false' for years divisible by 100, since those are not leap years.
+    -The program should return 'true' for years divisible by 400, since those are leap years. 
+
 ## License information
 MIT License
 
